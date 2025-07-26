@@ -125,7 +125,7 @@ function App() {
             {...fadeInUp}
           >
             Kill inefficiency.<br />
-            Scale productivity.
+            <span className="block mt-4 text-stone-500">Scale productivity.</span>
           </motion.h1>
           
           <p
